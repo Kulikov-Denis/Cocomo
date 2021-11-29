@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AbstractCocomoFirstLibrary/1.0.0": {
+        "dependencies": {
+          "AbstractGeneralCocomoLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AbstractCocomoFirstLibrary.dll": {}
+        }
+      },
+      "AbstractGeneralCocomoLibrary/1.0.0": {
+        "runtime": {
+          "AbstractGeneralCocomoLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractCocomoFirstLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractGeneralCocomoLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

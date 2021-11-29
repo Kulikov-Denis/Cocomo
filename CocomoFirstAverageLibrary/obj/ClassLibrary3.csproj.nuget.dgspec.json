@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\ClassLibrary3\\ClassLibrary3.csproj": {}
+  },
+  "projects": {
+    "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\ClassLibrary2\\CocomoFirstLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\ClassLibrary2\\CocomoFirstLibrary.csproj",
+        "projectName": "CocomoFirstLibrary",
+        "projectPath": "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\ClassLibrary2\\CocomoFirstLibrary.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\ClassLibrary2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Programs\\Visual Studio 2022\\Component\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\COCOMOClassLibrary\\GeneralCocomoLibrary.csproj": {
+                "projectPath": "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\COCOMOClassLibrary\\GeneralCocomoLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\ClassLibrary3\\ClassLibrary3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\ClassLibrary3\\ClassLibrary3.csproj",
+        "projectName": "ClassLibrary3",
+        "projectPath": "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\ClassLibrary3\\ClassLibrary3.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\ClassLibrary3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Programs\\Visual Studio 2022\\Component\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\ClassLibrary2\\CocomoFirstLibrary.csproj": {
+                "projectPath": "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\ClassLibrary2\\CocomoFirstLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\COCOMOClassLibrary\\GeneralCocomoLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\COCOMOClassLibrary\\GeneralCocomoLibrary.csproj",
+        "projectName": "GeneralCocomoLibrary",
+        "projectPath": "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\COCOMOClassLibrary\\GeneralCocomoLibrary.csproj",
+        "packagesPath": "C:\\Users\\denku\\.nuget\\packages\\",
+        "outputPath": "D:\\Main\\Активное\\Менеджмент\\COCOMO\\CoCoMo\\COCOMOClassLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Programs\\Visual Studio 2022\\Component\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
