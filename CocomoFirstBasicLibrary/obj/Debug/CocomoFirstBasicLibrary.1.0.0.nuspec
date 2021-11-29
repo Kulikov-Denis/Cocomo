@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CocomoFirstBasicLibrary</id>
+    <version>1.0.0</version>
+    <authors>Kulikov Denis</authors>
+    <description>Пакет для работы с методом COCOMO 1 Базовый уровень</description>
+    <copyright>Kulikov Line Dev, 2021</copyright>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="CocomoFirstLibrary" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Main\Активное\Менеджмент\Cocomo\Cocomo\CocomoFirstBasicLibrary\bin\Debug\net6.0\CocomoFirstBasicLibrary.dll" target="lib\net6.0\CocomoFirstBasicLibrary.dll" />
+  </files>
+</package>
