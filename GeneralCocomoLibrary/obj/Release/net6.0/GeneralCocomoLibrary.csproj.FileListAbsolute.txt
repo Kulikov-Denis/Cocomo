@@ -1,0 +1,12 @@
+D:\Main\Активное\Менеджмент\Cocomo\Cocomo\GeneralCocomoLibrary\bin\Release\net6.0\GeneralCocomoLibrary.deps.json
+D:\Main\Активное\Менеджмент\Cocomo\Cocomo\GeneralCocomoLibrary\bin\Release\net6.0\GeneralCocomoLibrary.dll
+D:\Main\Активное\Менеджмент\Cocomo\Cocomo\GeneralCocomoLibrary\bin\Release\net6.0\ref\GeneralCocomoLibrary.dll
+D:\Main\Активное\Менеджмент\Cocomo\Cocomo\GeneralCocomoLibrary\bin\Release\net6.0\GeneralCocomoLibrary.pdb
+D:\Main\Активное\Менеджмент\Cocomo\Cocomo\GeneralCocomoLibrary\obj\Release\net6.0\GeneralCocomoLibrary.csproj.AssemblyReference.cache
+D:\Main\Активное\Менеджмент\Cocomo\Cocomo\GeneralCocomoLibrary\obj\Release\net6.0\GeneralCocomoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Активное\Менеджмент\Cocomo\Cocomo\GeneralCocomoLibrary\obj\Release\net6.0\GeneralCocomoLibrary.AssemblyInfoInputs.cache
+D:\Main\Активное\Менеджмент\Cocomo\Cocomo\GeneralCocomoLibrary\obj\Release\net6.0\GeneralCocomoLibrary.AssemblyInfo.cs
+D:\Main\Активное\Менеджмент\Cocomo\Cocomo\GeneralCocomoLibrary\obj\Release\net6.0\GeneralCocomoLibrary.csproj.CoreCompileInputs.cache
+D:\Main\Активное\Менеджмент\Cocomo\Cocomo\GeneralCocomoLibrary\obj\Release\net6.0\GeneralCocomoLibrary.dll
+D:\Main\Активное\Менеджмент\Cocomo\Cocomo\GeneralCocomoLibrary\obj\Release\net6.0\ref\GeneralCocomoLibrary.dll
+D:\Main\Активное\Менеджмент\Cocomo\Cocomo\GeneralCocomoLibrary\obj\Release\net6.0\GeneralCocomoLibrary.pdb

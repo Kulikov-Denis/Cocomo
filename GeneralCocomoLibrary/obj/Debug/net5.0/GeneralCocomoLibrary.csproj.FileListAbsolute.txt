@@ -1,0 +1,11 @@
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\COCOMOClassLibrary\bin\Debug\net5.0\GeneralCocomoLibrary.deps.json
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\COCOMOClassLibrary\bin\Debug\net5.0\GeneralCocomoLibrary.dll
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\COCOMOClassLibrary\bin\Debug\net5.0\ref\GeneralCocomoLibrary.dll
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\COCOMOClassLibrary\bin\Debug\net5.0\GeneralCocomoLibrary.pdb
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\COCOMOClassLibrary\obj\Debug\net5.0\GeneralCocomoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\COCOMOClassLibrary\obj\Debug\net5.0\GeneralCocomoLibrary.AssemblyInfoInputs.cache
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\COCOMOClassLibrary\obj\Debug\net5.0\GeneralCocomoLibrary.AssemblyInfo.cs
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\COCOMOClassLibrary\obj\Debug\net5.0\GeneralCocomoLibrary.csproj.CoreCompileInputs.cache
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\COCOMOClassLibrary\obj\Debug\net5.0\GeneralCocomoLibrary.dll
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\COCOMOClassLibrary\obj\Debug\net5.0\ref\GeneralCocomoLibrary.dll
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\COCOMOClassLibrary\obj\Debug\net5.0\GeneralCocomoLibrary.pdb
