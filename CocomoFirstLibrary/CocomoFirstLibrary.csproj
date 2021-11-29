@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<RootNamespace>Cocomo</RootNamespace>
+		<Authors>Kulikov Denis</Authors>
+		<Company>Line</Company>
+		<Product>CocomoFirst</Product>
+		<Description>Пакет для работы с методом COCOMO 1</Description>
+		<Copyright>Kulikov Line Dev, 2021</Copyright>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\GeneralCocomoLibrary\GeneralCocomoLibrary.csproj" />
+	</ItemGroup>
+
+</Project>
