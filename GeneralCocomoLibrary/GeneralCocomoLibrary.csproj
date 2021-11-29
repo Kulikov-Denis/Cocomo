@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Cocomo</RootNamespace>
+    <Authors>Kulikov Denis</Authors>
+    <Company>Line</Company>
+	  <Product>CocomoFirst</Product>
+    <Description>Пакет для работы с методами COCOMO 1 и 2</Description>
+    <Copyright>Kulikov Line Dev, 2021</Copyright>
+  </PropertyGroup>
+
+</Project>
