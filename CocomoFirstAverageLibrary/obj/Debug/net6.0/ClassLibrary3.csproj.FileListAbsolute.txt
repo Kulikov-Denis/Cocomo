@@ -1,0 +1,5 @@
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\ClassLibrary3\obj\Debug\net6.0\ClassLibrary3.csproj.AssemblyReference.cache
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\ClassLibrary3\obj\Debug\net6.0\ClassLibrary3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\ClassLibrary3\obj\Debug\net6.0\ClassLibrary3.AssemblyInfoInputs.cache
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\ClassLibrary3\obj\Debug\net6.0\ClassLibrary3.AssemblyInfo.cs
+D:\Main\Активное\Менеджмент\COCOMO\CoCoMo\ClassLibrary3\obj\Debug\net6.0\ClassLibrary3.csproj.CoreCompileInputs.cache
